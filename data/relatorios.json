@@ -1,0 +1,47 @@
+{
+  "0": {
+    "id": "REL1755188464946",
+    "dadosTurno": {
+      "data": "2025-08-14",
+      "horario": "07:00 - 19:00",
+      "letra": "A",
+      "supervisor": "Ozias"
+    },
+    "equipes": [
+      {
+        "tipo": "Alta Pressão",
+        "numero": "AP-01",
+        "motorista": "teste",
+        "operadores": "teste",
+        "area": "teste",
+        "atividade": "teste",
+        "tipoAtividade": "Rotineira",
+        "statusAtividade": "Concluído",
+        "pendencia": "",
+        "vaga": "V-01",
+        "equipamento": "Equip. AP-1000",
+        "identificacaoUsiminas": "teste",
+        "trocaEquipamento": true,
+        "observacoes": "",
+        "trocaDetalhes": {
+          "motivo": "Manutenção Preventiva",
+          "defeito": "",
+          "placaNova": "EAM-3251",
+          "dataHoraInicio": "2025-08-14T13:20",
+          "dataHoraFim": "2025-08-15T13:20"
+        }
+      }
+    ],
+    "estatisticas": {
+      "totalEquipes": 1,
+      "equipesAltaPressao": 1,
+      "equipesVacuo": 0,
+      "atividadesConcluidas": 1,
+      "trocasEquipamento": 1
+    },
+    "criadoPor": "admin",
+    "criadoEm": "2025-08-14T16:21:04.946Z"
+  },
+  "_lastUpdate": "2025-08-14T16:21:06.054Z",
+  "_updatedBy": "admin"
+}
