@@ -1,4 +1,95 @@
 {
-  "_lastUpdate": "2025-08-14T17:45:29.532Z",
+  "0": {
+    "id": "REL1755193784881",
+    "dadosTurno": {
+      "data": "2025-08-14",
+      "horario": "07:00 - 19:00",
+      "letra": "A",
+      "supervisor": "Ozias",
+      "atrasos": {
+        "houve": "Não",
+        "motivos": [],
+        "justificativa": ""
+      }
+    },
+    "equipes": [
+      {
+        "tipo": "Alta Pressão",
+        "numero": "",
+        "motorista": "Warlison Abreu",
+        "operadores": "teste",
+        "area": "teste",
+        "atividade": "teste",
+        "tipoAtividade": "Rotineira",
+        "statusAtividade": "Concluído",
+        "pendencia": "",
+        "vaga": "ALTA PRESSÃO - GPS - 01 - 24 HS",
+        "equipamento": "EZC-0453",
+        "identificacaoUsiminas": "teste",
+        "observacoes": "",
+        "trocas": [
+          {
+            "motivo": "Manutenção Preventiva",
+            "placaNova": "teste",
+            "defeito": "teste",
+            "dataHoraInicio": "2025-08-14T14:48",
+            "dataHoraFim": "2025-08-14T14:48"
+          }
+        ],
+        "implementos": {
+          "implemento_Pistola": "OK",
+          "implemento_Pistola_C_L_": "OK",
+          "implemento_Mang__Torpedo": "OK",
+          "implemento_Pedal": "N/A",
+          "implemento_Varetas": "N/A",
+          "implemento_Rabicho": "N/A",
+          "implemento_Lances_Mangueira": "N/A",
+          "implemento_Lances_Varetas": "N/A",
+          "justificativa_implementos": "",
+          "caixa_bloqueio": "Não",
+          "cadeados": "N/A",
+          "plaquetas": "N/A"
+        }
+      },
+      {
+        "tipo": "Auto Vácuo / Hiper Vácuo",
+        "numero": "",
+        "motorista": "Warlison Abreu",
+        "operadores": "teste",
+        "area": "teste",
+        "atividade": "teste",
+        "tipoAtividade": "Rotineira",
+        "statusAtividade": "Concluído",
+        "pendencia": "",
+        "vaga": "AUTO VÁCUO - GPS - 01",
+        "equipamento": "ANF-5922",
+        "identificacaoUsiminas": "teste",
+        "observacoes": "",
+        "trocas": [],
+        "implementos": {
+          "implemento_Mangotes": "OK",
+          "implemento_Redu__es": "OK",
+          "implemento_Mangotes_3_": "N/A",
+          "implemento_Mangotes_4_": "N/A",
+          "implemento_Mangotes_6_": "N/A",
+          "justificativa_implementos": "",
+          "caixa_bloqueio": "Não",
+          "cadeados": "N/A",
+          "plaquetas": "N/A"
+        }
+      }
+    ],
+    "estatisticas": {
+      "totalEquipes": 2,
+      "equipesAltaPressao": 1,
+      "equipesVacuo": 1,
+      "equipesExtras": 0,
+      "atividadesConcluidas": 2,
+      "totalTrocas": 1
+    },
+    "criadoPor": "GrupoGPS",
+    "criadoEm": "2025-08-14T17:49:44.881Z"
+  },
+  "_lastUpdate": "2025-08-14T17:49:45.599Z",
   "_updatedBy": "GrupoGPS"
 }
